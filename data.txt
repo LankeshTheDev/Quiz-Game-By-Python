@@ -1,0 +1,2 @@
+Lankesh = 60
+Lankesh = 80
